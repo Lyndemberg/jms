@@ -1,0 +1,7 @@
+com/ifpb/dac/jms/EmailServlet.class
+com/ifpb/dac/jms/topic/ConsumidorVendas.class
+com/ifpb/dac/jms/topic/MensagemServlet.class
+com/ifpb/dac/jms/topic/ConsumidorEntrega.class
+com/ifpb/dac/jms/LerEmail.class
+com/ifpb/dac/jms/EnviarEmail.class
+com/ifpb/dac/jms/topic/EnviarMensagem.class
